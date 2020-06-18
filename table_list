@@ -1,5 +1,5 @@
 table_name:to_be_loaded
-orders:no
+orders:
 order_items:no
 products:no
 customers:no
